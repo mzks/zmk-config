@@ -14,4 +14,6 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: boardsource3x4
+    shield: ergodash_left
+  - board: seeeduino_xiao_ble
+    shield: ergodash_right
