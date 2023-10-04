@@ -6,3 +6,4 @@ url: https://github.com/mzks/zmk-config/
 requires: [seeed_xiao]
 features:
   - keys
+  - encoder
