@@ -2,5 +2,7 @@ if SHIELD_MY_BOARD
 
 config ZMK_KEYBOARD_NAME
     default "proto20"
+config ZMK_USB
+    default y
 
 endif
