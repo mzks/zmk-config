@@ -7,8 +7,10 @@
 
         default_layer {
             bindings = <
-     &kp LSHIFT    &kp LCTL    &kp TAB    &kp ESC   
-     &kp Z    &kp A    &kp Q    &kp 1   
+     &bt BT_CLR    &bt BT_PRV    &bt BT_NXT    &kp P
+     &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 
+     //&kp LSHIFT    &kp LCTL    &kp TAB    &kp ESC   
+     //&kp Z    &kp A    &kp Q    &kp 1   
      &kp X    &kp S    &kp W    &kp 2   
      &kp C    &kp D    &kp E    &kp 3   
      &kp V    &kp F    &kp R    &lt 2 KP_ENTER
