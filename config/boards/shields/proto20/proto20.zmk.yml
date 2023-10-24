@@ -7,3 +7,6 @@ requires: [seeed_xiao]
 features:
   - keys
   - encoder
+siblings:
+  - proto20_left
+  - proto20_right
