@@ -1,7 +1,7 @@
 if SHIELD_PROTO20_LEFT
 
 config ZMK_KEYBOARD_NAME
-    default "proto20s"
+    default "proto20"
 config ZMK_USB
     default y
 config ZMK_SPLIT_ROLE_CENTRAL
