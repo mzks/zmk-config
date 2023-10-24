@@ -1,2 +1,5 @@
-config SHIELD_PROTO20
-    def_bool $(shields_list_contains,proto20)
+config SHIELD_PROTO20_LEFT
+    def_bool $(shields_list_contains,proto20_left)
+
+config SHIELD_PROTO20_RIGHT
+    def_bool $(shields_list_contains,proto20_right)
