@@ -14,4 +14,6 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: proto20
+    shield: proto20_left
+  - board: seeeduino_xiao_ble
+    shield: proto20_right
