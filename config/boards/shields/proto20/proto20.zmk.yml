@@ -1,7 +1,7 @@
 file_format: "1"
 id: proto20
 name: proto20
-type: shield
+type: board
 url: https://github.com/mzks/zmk-config/
 requires: [seeed_xiao]
 features:
