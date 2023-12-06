@@ -14,9 +14,7 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: proto20_left
-  - board: seeeduino_xiao_ble
-    shield: proto20_right
+    shield: mzmacro
   - board: seeeduino_xiao_ble
     shield: settings_reset
 

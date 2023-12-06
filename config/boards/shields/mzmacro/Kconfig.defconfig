@@ -1,0 +1,8 @@
+if SHIELD_MZMACRO
+
+config ZMK_KEYBOARD_NAME
+    default "mzmacro"
+config ZMK_USB
+    default y
+
+endif
