@@ -41,8 +41,8 @@
         media_layer {
             bindings = <
             &lt 1 &to 3    &lt 1 &to 0
-            &kp  C_VOL_DOWN   &kp C_MUTE   &kp C_VOL_UP 
-            &kp  C_PREV   &kp C_PLAY_PAUSE   &kp C_NEXT 
+            &kp C_VOL_DN   &kp C_MUTE   &kp C_VOL_UP 
+            &kp C_PREV   &kp C_PLAY_PAUSE   &kp C_NEXT 
             >;
         };
 
