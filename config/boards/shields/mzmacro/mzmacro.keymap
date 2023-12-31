@@ -51,7 +51,7 @@
             bindings = <
             &mo 6    &mo 7
             &kp ESC   &kp UP   &kp ENTER 
-            &kp SHIFT   &kp DOWN   &kp DELETE
+            &kp LSHIFT   &kp DOWN   &kp DELETE
             >;
         };
 
